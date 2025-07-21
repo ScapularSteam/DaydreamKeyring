@@ -1,0 +1,17 @@
+# Daydream Keyring
+
+Creating 3D-printed keyrings can be a great way to make extra pieces of swag on a budget!
+
+## Finished product
+
+## Cost Breakdown
+
+Each keyring uses 2.51g of filament, and so from a 1kg roll, you can make 398 keyrings. 
+If you assume a cost of £15/roll, this comes out to £0.038 / keyring in filament costs. 
+The 5mm diameter hole in the key ring makes it perfect for hanging from a small metal carabiner clip. 
+These can be purchased for £5.20 for a bag of 100 clips on AliExpress. This results in a cost of £0.052p / carabiner. 
+This makes the final raw material £0.09, or 9p.
+
+These costings do not, however, factor in shipping costs or electricity usage. The amount of filament required to make each keyring will also vary depending on printer settings. 
+
+Assuming a turnout of ~4000, as was the case for Scrapyard, you could give one keyring to every participant for a cost of £360
