@@ -22,8 +22,6 @@ These costings do not, however, factor in shipping costs or electricity usage. T
 
 Assuming a turnout of ~4000, as was the case for Scrapyard, you could give one keyring to every participant for a cost of £360.
 
-Assuming you want to make no more than 100 keyrings, the cost to an event organiser is £20.20. The cost can likely be brought down if you already own the filament to make the keyrings.
-
 ## What about laser cutting?
 
 If you'd like to make a laser-cut keyring, or would like to engrave the Daydream logo onto items, I've included a DXF file in the repo too.
