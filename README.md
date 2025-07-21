@@ -4,6 +4,12 @@ Creating 3D-printed keyrings can be a great way to make extra pieces of swag on 
 
 ## Finished product
 
+<p float="left">
+  <img width="400" alt="daydream_keyring_front" src="https://github.com/user-attachments/assets/8f6dd18a-e7d3-4a4d-a5a7-e641130c4ce1" />
+  <img width="400" alt="daydream_keyring_side" src="https://github.com/user-attachments/assets/54c3e1d4-0065-4aa7-b03c-9a4791db2195" />
+</p>
+
+
 ## Cost Breakdown
 
 Each keyring uses 2.51g of filament, and so from a 1kg roll, you can make 398 keyrings. 
