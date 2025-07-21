@@ -20,4 +20,14 @@ This makes the final raw material £0.09, or 9p.
 
 These costings do not, however, factor in shipping costs or electricity usage. The amount of filament required to make each keyring will also vary depending on printer settings. 
 
-Assuming a turnout of ~4000, as was the case for Scrapyard, you could give one keyring to every participant for a cost of £360
+Assuming a turnout of ~4000, as was the case for Scrapyard, you could give one keyring to every participant for a cost of £360.
+
+Assuming you want to make no more than 100 keyrings, the cost to an event organiser is £20.20. The cost can likely be brought down if you already own the filament to make the keyrings.
+
+## What about laser cutting?
+
+If you'd like to make a laser-cut keyring, or would like to engrave the Daydream logo onto items, I've included a DXF file in the repo too.
+
+## I want to modify the file!
+
+The Fusion file is provided in case you would like to alter the design! For Scrapyard London, I created a version of the keychain with the word London written below the main text, so perhaps this might be something you would want to consider.
